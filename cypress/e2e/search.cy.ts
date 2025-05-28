@@ -15,7 +15,7 @@ describe('template spec', () => {
     cy.contains('#predictive-search-option-product-1 > .predictive-search__item > .predictive-search__item-content > .predictive-search__item-heading', 'coffee beans 5kg').click();
 
 
-
+//dada
   });
 });
 export {};
