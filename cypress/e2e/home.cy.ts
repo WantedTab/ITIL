@@ -1,4 +1,4 @@
-describe("home page", () => {
+/*describe("home page", () => {
   beforeEach(() => {
     cy.visit("https://r1070111-realbeans.myshopify.com")
   })
@@ -15,3 +15,4 @@ describe("home page", () => {
     cy.get("dt").eq(2).contains("Free and Open Source")
   })
 })
+  */

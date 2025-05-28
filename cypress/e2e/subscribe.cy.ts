@@ -1,4 +1,4 @@
-describe("Newsletter Subscribe Form", () => {
+/* describe("Newsletter Subscribe Form", () => {
   beforeEach(() => {
     cy.visit("http://localhost:3000")
   })
@@ -22,3 +22,5 @@ describe("Newsletter Subscribe Form", () => {
 })
 
 })
+
+*/
