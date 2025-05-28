@@ -48,3 +48,4 @@ describe('product detail ', () => {
 
   });
 });
+export {};
