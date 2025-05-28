@@ -15,7 +15,7 @@ jobs:
         run: npm ci
 
       - name: Build Next.js app
-        run: npm run build   # <-- Add this step
+        run: npm run build
 
       - name: Cypress run
         uses: cypress-io/github-action@v6
