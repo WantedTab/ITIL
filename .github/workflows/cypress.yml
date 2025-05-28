@@ -21,7 +21,7 @@ jobs:
         uses: cypress-io/github-action@v6
         with:
           start: npm start
-          wait-on: 'http://localhost:3000'
+          wait-on: 'https://r1070111-realbeans.myshopify.com'
           record: true
           parallel: true
         env:
